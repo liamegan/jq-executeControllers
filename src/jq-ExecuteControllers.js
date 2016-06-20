@@ -11,6 +11,7 @@
     Edited          2014-06-10 11:17:20
     Version         0.5
 */
+; 'use strict';
 
 window.wtc || (window.wtc = {});
 
