@@ -1,6 +1,7 @@
 {
   "name": "jquery-executeControllers",
   "homepage": "https://github.com/liamegan/jq-executeControllers",
+  "version": "0.5.0",
   "authors": [
     "Liam Egan <liam@wethecollective.com>"
   ],
